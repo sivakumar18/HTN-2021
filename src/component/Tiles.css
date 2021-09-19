@@ -1,0 +1,69 @@
+.btn {
+  background-color: #F5F5F5;
+  border: none;
+  border-radius: 8px;
+  color: black;
+  padding: 30px 32px;
+  margin: 15px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  width: 100%;
+
+}
+
+.btn:hover {
+  box-shadow: inset 0 0 6px 2px black;
+}
+
+# Genre {
+  align-items: left;
+  width: 100%;
+}
+
+.ProgressTile {
+  background-color: #DEDEDE;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  border: none;
+  padding: 2rem;
+  margin: 8px;
+  position: relative;
+}
+
+.NOTACTIVE {
+  opacity: 0.75;
+}
+
+.INPROGRESS {
+  border: solid;
+  color: black;
+}
+
+.LeftText {
+  color: black;
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  transform: translate(0, -50%);
+  float: left;
+  font-size: 20px;
+}
+
+.RightText {
+  color: black;
+  vertical-align: center;
+  float: right;
+  position: absolute;
+  right: 5%;
+  top: 50%;
+  transform: translate(0, -50%);
+  font-size: 12px;
+}
+
+.ACTIVE {
+  color: green;
+}
