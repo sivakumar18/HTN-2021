@@ -1,6 +1,6 @@
 # HTN-2021
 ## DISCLAIMER:
-Consider the code on this Github repo as an experiment and evidence of an attempt to learn React. It was a lot of fun, and definitely something to be looked more into in the future. In short, the only thing on here is a static webpage that has no **real** functionality - see our Figma prototype for a better idea of what our design looks like!
+Consider the code on this Github repo as an experiment and evidence of an attempt to learn React. It was a lot of fun, and definitely something to be looked more into in the future. In short, the only thing on here is a static webpage that has no **real** functionality - see our Figma prototype [here](https://www.figma.com/proto/Kgw906jJ9Gf867cB29XmJs/Hack-the-North-21-(in-a-pinch)?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2 "Figma Prototype") for a better idea of what our design looks like!
 ## Inspiration
 Planning an outing with a group of friends can be a messy and arduous process - especially when it comes to choosing a place to eat at. Everybody has different tastes, some might have dietary restrictions, and others may have no preference at all! All this planning (or rather, the lack of it) was what inspired us to make **In a Pinch**, a website service that addresses exactly this issue.
 
